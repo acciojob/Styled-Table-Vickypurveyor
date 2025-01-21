@@ -5,8 +5,14 @@
 }
 .gr{
 	background-color:#f4f4f4;
+	text-align: left;
 	
 }
 .wh{
 	background-color:white;
+	text-align: left;
+}
+.tab{
+	border-collapse: collapse;
+  width: 100%
 }
